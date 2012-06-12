@@ -1,0 +1,71 @@
+﻿     
+html{
+        background:#999;
+        height:100%;
+}
+
+p{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+body {
+        background:#CDE6FC;
+        color:#333;
+        width:1660px;
+        padding:10px;
+        margin:0 auto;
+        text-align:left;
+}
+
+h2{
+    color:#000;
+}
+
+.debugDiv{
+    border:1px solid black; 
+    background:#000;
+    color:#01FF02; 
+    width:1620px;
+    min-height:500px;
+    overflow:auto;
+    padding:10px;
+}
+
+.debugDiv a
+{
+    color:Red;
+}
+
+        
+        .app{
+            padding:10px;
+            border:1px solid black;
+            width:350px;
+            height:75px;
+            float:left;
+        }
+        .app.unit{
+            border-left:0px;
+        }
+                
+        .app.unit2{
+            border-top:0px;
+        }
+                
+        .app.unit3{
+            border-top:0px;
+            border-left:0px;
+        }
+
+        .grid-tvlistings{
+            background:#fff;
+            color:#666;
+            width:320px;
+        }
+
+.ad
+{
+    padding:10px;
+    border:1px dotted black;
+}
